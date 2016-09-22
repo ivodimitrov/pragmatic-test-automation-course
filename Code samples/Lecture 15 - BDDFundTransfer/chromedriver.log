@@ -1,0 +1,46 @@
+[0.000][INFO]:      ChromeDriver 26.0.1383.0 C:\Users\Strahinski\Desktop\Automated Testing Course\Lectures\Lecture 12 - Working with Selenium API & Overview of Selenium WebDriver\chromedriver.exe
+[0.464][FINE]:      Initializing session with capabilities {
+   "browserName": "chrome",
+   "chrome.switches": [  ],
+   "chromeOptions": {
+      "args": [  ],
+      "extensions": [  ]
+   },
+   "platform": "ANY",
+   "version": ""
+}
+
+[0.464][INFO]:      Launching chrome: "C:\Users\Strahinski\AppData\Local\Google\Chrome\Application\chrome.exe" --disable-hang-monitor --disable-prompt-on-repost --dom-automation --full-memory-crash-report --no-default-browser-check --no-first-run --disable-background-networking --disable-sync --disable-translate --disable-web-resources --safebrowsing-disable-auto-update --safebrowsing-disable-download-protection --disable-client-side-phishing-detection --disable-component-update --disable-default-apps --enable-logging --log-level=1 --ignore-certificate-errors about:blank
+[0.697][INFO]:      Connected to Chrome successfully. Version: 30.0.1599.101
+[0.711][FINE]:      Command received (/session/820fedf4b1314609472285e38e9c8711)
+[0.711][FINE]:      Command finished (/session/820fedf4b1314609472285e38e9c8711) with response {
+   "sessionId": "820fedf4b1314609472285e38e9c8711",
+   "status": 0,
+   "value": {
+      "acceptSslCerts": false,
+      "applicationCacheEnabled": false,
+      "browserConnectionEnabled": false,
+      "browserName": "chrome",
+      "chrome.chromedriverVersion": "26.0.1383.0",
+      "cssSelectorsEnabled": true,
+      "databaseEnabled": false,
+      "handlesAlerts": true,
+      "javascriptEnabled": true,
+      "locationContextEnabled": false,
+      "nativeEvents": true,
+      "platform": "windows",
+      "rotatable": false,
+      "takesScreenshot": true,
+      "version": "30.0.1599.101",
+      "webStorageEnabled": true
+   }
+}
+
+[0.715][FINE]:      Command received (/session/820fedf4b1314609472285e38e9c8711/timeouts/implicit_wait) with params {
+   "ms": 5000
+}
+
+[0.715][FINER]:     Waiting for all views to stop loading...
+[0.716][FINER]:     Done waiting for all views to stop loading
+[0.756][FINE]:      Command received (/session/820fedf4b1314609472285e38e9c8711/window)
+[0.863][INFO]:      Chrome shutdown
